@@ -1,36 +1,34 @@
 # Hi there, I'm Kshitij Agrawal! 👋
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&width=800&lines=AI+Enthusiast+%7C+Tech+Innovator+%7C+Cloud+Learner;Founder+%26+CEO+of+Nexora+AI;Building+Human-Centric+AI+Solutions!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&width=800&lines=AI+Enthusiast+%7C+Tech+Innovator+%7C+Cloud+Learner;Exploring+Human-Centric+AI+Solutions;Let's+Build+Responsible+AI+Together!" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
 
-I'm the Founder & CEO of **Nexora AI**, a company in its ideation stage, focused on developing **cutting-edge AI solutions** that enhance human productivity and efficiency. My mission is to build AI-powered tools that act as intelligent companions rather than replacements for human decision-making.
+I'm an AI enthusiast passionate about building **responsible, human-centric AI solutions**. With a deep interest in how technology intersects with real-world challenges, I focus on developing tools that **augment human potential**—not replace it.
 
-## 🔥 Vision
-
-I aim to revolutionize AI interaction by creating solutions that **empower individuals and organizations** while ensuring AI remains **accessible, ethical, and impactful**. Nexora AI is dedicated to **human-centric AI** that enhances rather than replaces human effort.
+My work blends **AI, cloud technologies, and ethical innovation**, and I'm committed to lifelong learning and creating tech that matters.
 
 ## 🔧 Tech Stack & Expertise
 
-- **AI & ML:** Machine Learning, Deep Learning, Computer Vision, NLP
-- **Languages:** Python, JavaScript, C++
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-Learn, OpenCV
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, Docker, AWS (Currently Learning ☁️)
+- **AI & ML:** Machine Learning, Deep Learning, Computer Vision, NLP  
+- **Languages:** Python, JavaScript, C++  
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-Learn, OpenCV  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools & Platforms:** Git, Docker, AWS *(currently exploring ☁️)*  
 
+## 🌟 What I'm Focused On
 
-## 🌟 Current Focus
-
-I am actively working on identifying **real-world challenges where AI can make a meaningful difference**. My priority is to create AI-driven solutions that provide **tangible benefits**, making AI a more valuable and accessible resource for everyone.
+- Identifying real-world problems where **AI can drive meaningful impact**  
+- Exploring ethical and explainable AI systems  
+- Learning and experimenting with **cloud-native AI development**
 
 ## 🔮 Future Goals
 
-- Expanding knowledge in **Cloud Computing** ☁️
-- Advancing expertise in **AI ethics & interpretability**
-- Building AI solutions that **empower users, not replace them**
+- Mastering **cloud infrastructure for scalable AI**
+- Diving deeper into **AI interpretability and ethics**
+- Building AI that is **transparent, accessible, and trustworthy**
 
 ## 📫 Connect With Me
 
@@ -40,8 +38,9 @@ I am actively working on identifying **real-world challenges where AI can make a
   <a href="https://github.com/Kshitij-Agrawal-MKG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-📧 Email: kshitijagrawal2475@gmail.com
+📧 Email: kshitijagrawal53@gmail.com  
+💬 Let’s connect, collaborate, and create something impactful!
 
-🚀 **Let's build the future of AI together!**
+---
 
-
+⭐ *"Tech is powerful—let’s use it responsibly to build a better future."*
